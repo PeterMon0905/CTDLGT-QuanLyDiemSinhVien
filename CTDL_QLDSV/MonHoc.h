@@ -6,6 +6,5 @@ typedef struct MonHoc {
     int stclt; // So tin chi ly thuyet
     int stcth; // So tin chi thuc hanh
 
-    MonHoc();
     MonHoc(const char* mamh, const char* tenmh, int stclt, int stcth);
 } MonHoc;

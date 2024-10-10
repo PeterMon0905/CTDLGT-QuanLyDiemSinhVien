@@ -7,11 +7,7 @@ typedef struct SinhVien {
 	string ten;
 	bool gioiTinh;
 	char soDT[10];
+	SinhVien* next;
 
-	SinhVien();
-	SinhVien(const char* maSV,
-		const string& ho,
-		const string& ten,
-		bool gioiTinh,
-		const char* soDT);
+	SinhVien(const char* maSV, const string& ho, const string& ten, bool gioiTinh, const char* soDT);
 };

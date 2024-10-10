@@ -24,6 +24,9 @@
     <ClCompile Include="SinhVien.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="DSSV.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MonHoc.h">
@@ -33,6 +36,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="SinhVien.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DSSV.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

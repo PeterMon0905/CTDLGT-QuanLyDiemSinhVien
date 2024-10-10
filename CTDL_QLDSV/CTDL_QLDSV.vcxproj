@@ -127,11 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="DSSV.cpp" />
     <ClCompile Include="MonHoc.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="SinhVien.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="DSSV.h" />
     <ClInclude Include="LopSinhVien.h" />
     <ClInclude Include="MonHoc.h" />
     <ClInclude Include="SinhVien.h" />
