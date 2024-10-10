@@ -1,2 +1,8 @@
-﻿  main.cpp
-  CTDL_QLDSV.vcxproj -> C:\Users\Admin\source\repos\CTDL_QLDSV\x64\Debug\CTDL_QLDSV.exe
+﻿  MonHoc.cpp
+  Main.cpp
+  SinhVien.cpp
+C:\project\github\CTDLGT-QuanLyDiemSinhVien\CTDL_QLDSV\SinhVien.h(17,2): warning C4091: 'typedef ': ignored on left of 'SinhVien' when no variable is declared
+  (compiling source file 'SinhVien.cpp')
+  
+  Generating Code...
+  CTDL_QLDSV.vcxproj -> C:\project\github\CTDLGT-QuanLyDiemSinhVien\CTDL_QLDSV\x64\Debug\CTDL_QLDSV.exe
